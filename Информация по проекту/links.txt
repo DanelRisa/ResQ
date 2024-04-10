@@ -1,0 +1,6 @@
+auth - https://www.figma.com/file/ddFY60G8jcpZUVzNMn73Fh/Authentication?type=design&node-id=1%3A2&mode=design&t=yZWR1esrBUOZDhbE-1
+login - https://www.figma.com/file/PejcrocuOj59cVOjf65NRl/Untitled?type=design&node-id=0%3A1&mode=design&t=i4rJk0bgGbj56M2G-1
+
+main page - https://www.figma.com/file/QmjflEZhpwP1tzX1YsFLDU/ResQ-Tails?type=design&node-id=0%3A1&mode=design&t=CqXBnvRIxUYqHXHi-1
+
+база данных - https://drive.google.com/file/d/1ShohQEEc5tJxKCZxYW-eN5waLT5bNglX/view?usp=sharing
