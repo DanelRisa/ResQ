@@ -1,4 +1,4 @@
-package com.example.ResQTails.service;
+package com.example.ResQTails.security.services;
 
 import com.example.ResQTails.models.Animal;
 import com.example.ResQTails.repository.AnimalRepository;

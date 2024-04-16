@@ -1,7 +1,7 @@
 package com.example.ResQTails.controllers;
 
 import com.example.ResQTails.models.Animal;
-import com.example.ResQTails.service.AnimalService;
+import com.example.ResQTails.security.services.AnimalService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
